@@ -1,4 +1,4 @@
-package Homework;
+package Homework.sem6;
 public class laptop{
     private String color;
     private Integer RAM;

@@ -1,4 +1,4 @@
-package Homework;
+package Homework.sem6;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -7,7 +7,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 import java.util.Map.Entry;
 
-    public class task{
+    public class main {
         public static void main(String[] args) {
             laptop lap1=new laptop("A5",1236,"Xiaomi");
             lap1.setColor("black");
